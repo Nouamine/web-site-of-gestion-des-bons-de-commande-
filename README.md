@@ -28,8 +28,6 @@
 - **Node.js**: For the backend server to handle HTTP requests and integrate with the database.
 - **MongoDB**: For storing and managing order data in a NoSQL database.
 
-## Installation
 
-To set up the project locally, follow these steps:
 
 
