@@ -1,0 +1,65 @@
+.header {
+  
+  
+    color: gray;
+   }
+   
+   body{
+   background-image:url(https://aujourdhui.ma/wp-content/uploads/2016/11/Super-Cerame.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   }
+   
+   body{
+   border: dashed 3px blac
+     
+     
+     margin-right :70px;
+     margin-left:70px;
+   }
+   .int{
+     float: right;
+      margin-right :70px;
+     margin-left:70px;
+     
+   }
+   
+   .float{
+     float: left;
+      margin-right :70px;
+     margin-left:70px;
+     
+   }
+   
+   .br{
+     float: left;
+      margin-right :70px;
+     margin-left:70px;
+     
+   }
+   
+   .div{
+     float: right;
+     color: black;
+   
+     margin-right :50px;
+     margin-left:30px;
+   }
+   
+   .am{
+     float: right;
+     color: black;
+   
+     margin-right :70px;
+     margin-left:70px;
+   }
+   
+   
+   p{
+     color: orange;
+   }
+   
+   
+   
+   
